@@ -1,7 +1,4 @@
-# TODO-APP
-
-
-# Todo API Project
+# TODO-APP-API Project
 
 This is a simple Node.js + Express.js project that creates a RESTful API for managing a Todo list. The frontend is a static HTML page that interacts with the backend using the Fetch API.
 
